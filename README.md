@@ -17,11 +17,4 @@ Superstore Sales dataset containing order, customer, product, sales, profit, dis
 - Jupyter Notebook
 - VS Code
 
-## Project Structure
-```text
-data/raw/          Original downloaded dataset
-data/processed/    Cleaned dataset
-notebooks/         Jupyter notebook with cleaning and EDA
-reports/figures/   Saved charts
-scripts/           Reusable Python scripts
-dashboards/        Future dashboard files
+
